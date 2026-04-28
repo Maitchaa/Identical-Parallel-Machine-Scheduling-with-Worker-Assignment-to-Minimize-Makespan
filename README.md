@@ -44,7 +44,7 @@ p_i(u) = A_i + B_i / (E_i · u)
 2. **Open the notebook**  
    Upload `Adv_Algo_Project.ipynb` to Google Colab or run locally with Jupyter.
 
-3. **Run cells in order** — top to bottom:
+3. **Run cells in order**:
    - Cells 1–18: shared infrastructure (Instance, Solution, evaluator, sanity checks)
    - Cells 20–36: H1, H2, RBR, MFR
    - Cells 38–48: H3, H4, GA
