@@ -78,6 +78,12 @@ All algorithms use `numpy.random.default_rng(seed)` seeded per instance. Running
 
 ---
 
+## Source Code
+
+https://colab.research.google.com/drive/1LwaQHFtUTgrG_6MyEg-oGwvqbkzzCNDo?usp=sharing
+
+---
+
 ## References
 
 1. Hu, T.C. (1961). Parallel sequencing and assembly line problems. *Operations Research*, 9(6):841–848.
